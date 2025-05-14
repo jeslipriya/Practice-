@@ -1,0 +1,8 @@
+# class files of Java
+*.class
+
+# .exe files of C++
+C++/*.exe
+
+# vscode local folder
+.vscode/
