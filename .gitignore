@@ -2,7 +2,7 @@
 *.class
 
 # .exe files of C++
-# C++/*.exe
+C++/*.exe
 
 # vscode local folder
 # .vscode/
