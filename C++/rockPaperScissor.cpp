@@ -142,6 +142,7 @@ int main(){
 
     char user = getUserChoice();
     char computer = getComputerChoice();
+    
     showChoice(user, computer);
     chooseWinner(user, computer);
 
