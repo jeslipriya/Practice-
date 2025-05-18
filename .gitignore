@@ -4,5 +4,8 @@
 # .exe files of C++
 C++/*.exe
 
+# .exe files of C
+C/*.exe
+
 # vscode local folder
 .vscode/
