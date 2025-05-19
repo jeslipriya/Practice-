@@ -10,7 +10,7 @@ C/*.exe
 # files and folders of C#
 **/bin
 **/obj
-**/.csproj
+**/*.csproj
 /Practice.sln
 
 # vscode local folder
