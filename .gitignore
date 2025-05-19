@@ -7,5 +7,11 @@ C++/*.exe
 # .exe files of C
 C/*.exe
 
+# files and folders of C#
+CSharp/bin
+CSharp/obj
+CSharp/Practice.csproj
+CSharp/Practice.sln
+
 # vscode local folder
 .vscode/
