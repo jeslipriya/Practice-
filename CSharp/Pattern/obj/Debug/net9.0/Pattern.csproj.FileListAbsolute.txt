@@ -1,0 +1,15 @@
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\bin\Debug\net9.0\Pattern.exe
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\bin\Debug\net9.0\Pattern.deps.json
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\bin\Debug\net9.0\Pattern.runtimeconfig.json
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\bin\Debug\net9.0\Pattern.dll
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\bin\Debug\net9.0\Pattern.pdb
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfoInputs.cache
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.AssemblyInfo.cs
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.sourcelink.json
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.dll
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\refint\Pattern.dll
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.pdb
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\Pattern.genruntimeconfig.cache
+C:\Users\jesli\OneDrive\Desktop\Practice\CSharp\Pattern\obj\Debug\net9.0\ref\Pattern.dll
