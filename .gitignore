@@ -8,10 +8,10 @@ C++/*.exe
 C/*.exe
 
 # files and folders of C#
-CSharp/bin
-CSharp/obj
-CSharp/Practice.csproj
-CSharp/Practice.sln
+**/bin
+**/obj
+/Practice.csproj
+/Practice.sln
 
 # vscode local folder
 .vscode/
